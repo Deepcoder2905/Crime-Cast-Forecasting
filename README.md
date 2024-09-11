@@ -10,9 +10,6 @@ Crime-Cast Forecasting is a machine learning project that aims to predict crime 
 - [Modeling](#modeling)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
