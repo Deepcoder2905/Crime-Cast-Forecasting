@@ -1,6 +1,6 @@
 # Crime-Cast Forecasting
 
-Crime-Cast Forecasting is a machine learning project that aims to predict crime occurrence using a dataset obtained from Kaggle. The project involves performing Exploratory Data Analysis (EDA), preprocessing the data, and training several machine learning models to forecast crimes.
+Crime-Cast Forecasting is a machine learning project that aims to predict crime categories using a dataset obtained from Kaggle. The project involves performing Exploratory Data Analysis (EDA), preprocessing the data, and training several machine learning models to forecast crimes.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Crime-Cast Forecasting is a machine learning project that aims to predict crime 
 
 ## Project Overview
 
-The goal of this project is to forecast the likelihood of crimes occurring in various locations based on historical data. The models used include Random Forest, XGBoost Classifier, Bagging Classifier with Decision Tree, and Gradient Boosting Classifier. We compare these models based on accuracy, precision, recall, and other relevant metrics.
+The goal of this project is to forecast the categories of crimes occurring in various locations based on historical data. The models used include Random Forest, XGBoost Classifier, Bagging Classifier with Decision Tree, and Gradient Boosting Classifier. We compare these models based on accuracy, precision, recall, and other relevant metrics.
 
 ## Dataset
 
